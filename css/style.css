@@ -13,24 +13,24 @@ p{
 	color:#16c410;
 }
 .box{
-	width:24.33%;
+	width:25%;
 	float:left;
 	padding:15px;
 	box-sizing:border-box;
 }
 .box-one{
-	background-color:green;
+	background-color:#8078003b;
 	padding: 20px;
 }
 .box-two{
-	background-color:black;
+	background-color:#0000004f;
 	padding: 20px;
 }
 .box-three{
-	background-color:yellow;
+	background-color:#bbff0073;
 	padding: 20px;
 }
 .box-fourth{
-	background-color:red;
+	background-color:#ff000047;
 	padding: 20px;
 }
